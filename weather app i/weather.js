@@ -1,4 +1,4 @@
-const apiKey = '39635963370ea5fb7b7e2605da782008';
+const apiKey = 'goes here';
 const apiUrl =
   'https://api.openweathermap.org/data/2.5/weather?units=imperial&q=';
 
